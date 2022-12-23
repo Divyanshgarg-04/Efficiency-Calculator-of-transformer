@@ -141,7 +141,7 @@ Equivalent_Label = Label(image=photo)
 Equivalent_Label.grid(row=16,column=4)
 
 
-name=Label(window,text="Divyansh garg (121EE0836)",font=" Calibri(Body) 10 bold",fg="red")
+name=Label(window,text="By :-Divyansh garg",font=" Calibri(Body) 10 bold",fg="red")
 name.grid(row=16,column=2)
 
 window.mainloop()
